@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manthankumbhar
 - 👀 I’m interested in coding & learning new stuff.
-- 🌱 I’m currently aspiring to be a Full stack web developer
+- 🌱 I’m currently aspiring to be a Full stack web developer and shift to native when the time comes :)
 
 
 <!---
