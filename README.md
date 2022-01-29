@@ -1,4 +1,5 @@
 # 👋 Yolos, I’m [Manthan Kumbhar](https://manthankumbhar.com)
+[<img align="left" width="25px" alt="mail" src="https://cdn-icons-png.flaticon.com/512/893/893257.png" />](mailto:contact@manthankumbhar.com)
 [<img align="left" width="25px" alt="website" src="https://cdn-icons-png.flaticon.com/512/975/975645.png" />](https://manthankumbhar.com)
 [<img align="left" width="25px" alt="linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/manthankumbhar/)
 [<img align="left" width="25px" alt="linkedin" src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" />](https://expo.dev/@manthankumbhar)
