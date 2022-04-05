@@ -9,7 +9,9 @@
 [<img align="left" width="25px" alt="instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />](https://www.instagram.com/manthankumbhar/)
 <br />
 
----
+---  
 [![Manthan's GitHub stats](https://github-readme-stats.vercel.app/api?username=manthankumbhar&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthankumbhar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Visits Badge](https://badges.pufler.dev/visits/manthankumbhar/manthankumbhar?color=0F182A&style=for-the-badge)](https://github.com/manthankumbhar)
